@@ -11,6 +11,10 @@ Skills: VUE JS / LARAVEL / JS / HTML / CSS / PYTHON
 - 🔭 I’m currently working on Laravel Hotel Reservation Website. 
 - 🌱 I’m currently learning Laravel, Python, Vue 
 
+### Some of my Projects
+- https://github.com/chi-beekay/Crypto-Challenge/tree/main/crypto_challenge
+- 
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chi-beekay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chibuike-mokwe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/qi_beekay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://beekay-portfolio.vercel.app/)  
 
