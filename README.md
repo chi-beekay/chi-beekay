@@ -13,7 +13,7 @@ Skills: VUE JS / LARAVEL / JS / HTML / CSS / PYTHON
 
 ### Some of my Projects
 - https://github.com/chi-beekay/Crypto-Challenge/tree/main/crypto_challenge
-- 
+- https://github.com/chi-beekay/bankProject-/tree/main/bank%20project
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chi-beekay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chibuike-mokwe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/qi_beekay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://beekay-portfolio.vercel.app/)  
